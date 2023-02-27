@@ -1,0 +1,3 @@
+emailservice\model\Email.class
+emailservice\repository\UserRepository.class
+emailservice\model\User.class
